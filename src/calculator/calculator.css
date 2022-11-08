@@ -11,8 +11,7 @@ input::placeholder {
   color: #234D79;
 }
 
-input,
-button {
+input {
   border: none;
   outline: none;
 }
