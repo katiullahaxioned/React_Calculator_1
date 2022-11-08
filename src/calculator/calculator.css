@@ -54,7 +54,7 @@ input {
 }
 
 .input-box > *:first-child {
-  color: #234D79;
+  color: #861d15;
   font-size: 50px;
 }
 
@@ -97,4 +97,8 @@ input {
 
 .number-box > *:hover {
   background-color: #ccc;
+}
+
+.inactive {
+  pointer-events: none;
 }
